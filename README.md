@@ -1,4 +1,4 @@
-# Resume generator
+# Resume Builder
 Web based editor to create Resume in a customizable template  
   
 Try it : https://1uzumakinaruto.github.io/Resume-Builder/
