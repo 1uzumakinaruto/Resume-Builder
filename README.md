@@ -1,7 +1,7 @@
 # Resume Builder
 Web based editor to create Resume in a customizable template  
   
-Try it : https://1uzumakinaruto.github.io/Resume-Builder/
+Try it : https://generateurcv.netlify.app/
 
 **Note** : Click the "VIEW INSTRUCTIONS" button in the editor to read usage instructions.
 
